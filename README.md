@@ -4,6 +4,8 @@ A desktop tool for re-rendering the text on game **nameplate assets** — e.g. r
 baked-in Japanese character nameplate (他校の男子生徒a…) with its English translation
 (*Other Male Student A*), while keeping the original plate artwork pixel-perfect.
 
+**As far for now, I've only tested on Hamidashi Creative Visual Novel**
+
 Built with [customtkinter](https://github.com/TomSchimansky/CustomTkinter) +
 [Pillow](https://python-pillow.org/), with optional
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) support for auto-detecting
