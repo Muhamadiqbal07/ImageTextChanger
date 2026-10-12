@@ -5,7 +5,7 @@ baked-in Japanese character nameplate (他校の男子生徒a…) with its Engli
 (*Other Male Student A*), while keeping the original plate artwork pixel-perfect.
 
 > **As far for now, I've only tested on Hamidashi Creative Visual Novel**
-> [VNDB Link](https://vndb.org/v27449)
+[VNDB Link](https://vndb.org/v27449)
 
 Built with [customtkinter](https://github.com/TomSchimansky/CustomTkinter) +
 [Pillow](https://python-pillow.org/), with optional
