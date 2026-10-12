@@ -9,7 +9,7 @@ Built with [customtkinter](https://github.com/TomSchimansky/CustomTkinter) +
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) support for auto-detecting
 the original text when loading a source image.
 
-![UI screenshot](docs/screenshot.png)
+![UI screenshot](docs/image.png)
 
 ---
 
