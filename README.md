@@ -5,6 +5,7 @@ baked-in Japanese character nameplate (他校の男子生徒a…) with its Engli
 (*Other Male Student A*), while keeping the original plate artwork pixel-perfect.
 
 > **As far for now, I've only tested on Hamidashi Creative Visual Novel**
+> ![VNDB Link](https://vndb.org/v27449)
 
 Built with [customtkinter](https://github.com/TomSchimansky/CustomTkinter) +
 [Pillow](https://python-pillow.org/), with optional
@@ -88,7 +89,6 @@ python image_text_changer.py
    source is pasted at) if you need to crop/shift the asset.
 5. **Save Output Image** — exports a transparent PNG ready for your mod/asset pipeline.
 
-![rendered plate example](docs/preview_example.png)
 
 ## How the rendering works
 
